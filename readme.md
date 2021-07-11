@@ -1,3 +1,3 @@
 # Introduce
 
-这是本科期间所有课程的代码
+This is the code for all courses during the undergraduate program in Computer Science and Technology in the School of Computer Science at CUG.
